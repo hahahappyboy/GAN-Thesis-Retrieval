@@ -2,7 +2,9 @@
 
 
 参考了[官方代码](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 时间原因只复现了模型和训练流程
+
 作者生成器下采样用的是LeakyReLU，而上采样用的是ReLU，并且上采样还加了Dropout，归一化用的是BN，最后输出为Tanh
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2752977de5a7463d93ec4f00875035ac.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAaWlpaWlpaW1w,size_20,color_FFFFFF,t_70,g_se,x_16)
 
