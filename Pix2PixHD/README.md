@@ -1,3 +1,5 @@
+论文解析见[https://blog.csdn.net/iiiiiiimp/article/details/122328093](https://blog.csdn.net/iiiiiiimp/article/details/122328093)
+
 参考了[作者的代码](https://github.com/NVIDIA/pix2pixHD)
 
 时间原因只复现了模型和训练流程
