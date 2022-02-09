@@ -1,5 +1,6 @@
 # (Pix2Pix)Image-to-Image Translation with Conditional Adversarial Networks
 
+论文解析见[https://blog.csdn.net/iiiiiiimp/article/details/122328093](https://blog.csdn.net/iiiiiiimp/article/details/122328093)
 
 参考了[官方代码](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
