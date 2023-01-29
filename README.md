@@ -16,4 +16,5 @@ DiffAugment
 SPADE
 CC-FPSE
 OASIS
+StyleGAN2
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/122328093](https://blog.csdn.net/iiiiiiimp/article/details/122328093)
